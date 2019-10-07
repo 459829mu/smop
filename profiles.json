@@ -1,0 +1,74 @@
+// **Group members profiles**   
+// Each profile consists of (1) avatar, (2) username, (3) personal description, (4) number of "likes" the profile will receive throughout the interaction
+	
+window.others = {
+  "posts" : [
+      {
+        "avatar": "avatars/others/kuba.png",
+        "username": "Kuba",
+        "text": "Ahoj, jmenuju se Kuba. Vystudoval jsem sociologii a studuji psychologii. Mám rád hudbu. Rád hraju hry a spím. Čím jsem starší, tím míň na obě dvě věci mám čas. Jednou bych chtěl být bohatý a úspěšný, ale zahodit všechno, co jsem vystudoval a jít do teď IT na full-time je podle mě škoda. Budu muset vymyslet kompromis. Mám rád svoji přítelkyni. Rádi spolu vaříme, pečeme a jezdíme na výlety.",
+        "likes": [45000, 50000, 110000, 150000] //4
+      },
+      {
+        "avatar": "avatars/others/kaja.png",
+        "username": "Kája",
+        "text": "Jmenuju se Kája, je mi 22 a studuju multimédia. Nikdy nepohrdnu natřískaným hudebním festivalem, ale pak se ráda uklidím domů kamarádit jen se svojí kočkou. Mám ráda výzvy, horský dráhy, ohňostroje, tanec, modrý oči a jégra. Ráda cestuju – jednou letadlem, jindy stopem. Jednou do města a jindy do hor. Někdy vyrážím i sama, ale nejšťastnější jsem stejně se svojí bandou kamarádů u táboráku.",
+        "likes": [12000, 14000,15000,35000,80000,100000,110000,150000,20000] //9
+      },
+      {
+        "avatar": "avatars/others/tom.png",
+        "username": "Tom",
+        "text": "Čau, jsem Tom. Jsem velmi přátelský a komunikativní. Mám rád srandu a kolektivní sporty, protože je to super způsob, jak lépe poznat lidi. Jsem celkem zvědavý, co nás čeká za úkol a s kým se tu seznámím.",
+		"likes": [20000, 21000] //2
+      },
+      {
+        "avatar": "avatars/others/jirka.png",
+        "username": "Jirka",
+        "text": "Je mi 20 let, původem jsem z Liberce, ale nyní studuji a bydlím v Brně. Dřív jsem dělal závodně judo, ale zkrátka čím je člověk starší, tím míň času má. Kromě studia hodně hraji na počítači a modelařím. Zajímám se o politiku, o které, často nad sklenicí piva, vydržím debatovat hodiny. Rád trávím čas s přáteli, což je nejlepší koníček ze všech.",
+        "likes": [10000, 12000, 40000, 80000, 120000] //5
+      },
+      {
+        "avatar": "avatars/others/niki.png",
+        "username": "Nick",
+        "text": "Ahoj! Jsem z Pražák žijící v Brně, ale hrdej jsem jen na to první. Jsem večnej student, ale složenky ze mě udělaly pracujícího studenta na skoro plnej úvazek, takže jsem teď pořád v letu. Když už se můžu na chvíli zastavit, tak si rád pustim americkej fotbal a něco dobrýho si uvařim. Taky píšu a chci to dělat dobře, ale pravda bohužel nebudí takovej zájem jako skandální titulek.",
+        "likes": [40000, 450000, 90000, 100000, 150000, 155000] //6
+      },
+    {
+        "avatar": "avatars/others/anicka.png",
+        "username": "Anička",
+        "text": "Ahoj, jmenuji se Anička. Je mi 22 let. Momentálně studuji chemii na Přírodovědecké fakultě MU v Brně. Mám ráda cestování, hodně sleduji seriály. V životě se snažím zkoušet stále nové věci, i to je jeden z důvodu proč jsem si udělala potápěčský kurz.",
+        "likes": [20000, 25000, 95000] //3
+      },
+      {
+        "avatar": "avatars/others/linda.png",
+        "username": "Linda",
+        "text": "Ahoj, jsem Linda a nevím, co bych napsala. V poslední době dokážu myslet jen na školu, protože mě čeká celkem náročný zápočťák. Ráda se účastním experimentů, protože se snažím prokrastinovat aspoň trochu produktivně a doma už mám uklizeno:D.",
+        "likes": [12000, 38000] //1
+      },
+          {
+        "avatar": "avatars/others/honza.png",
+        "username": "Honza",
+        "text": "Čau! Já jsem Honza a přemýšlím, co bych vám o sobě zasdílel. Vzhledem k tomu, že semestr je v plném proudu, tak teď řeším hlavně školu. Když je ale času trochu víc, tak rád chodím na výlety, v létě na kolo a v zimě na lyže. V poslední době se taky více zajímám o životní prostředí a snažím se nějak zapracovat na svých líných návycích.",
+        "likes": [10000, 50000, 88000, 11000, 11500, 120000, 15000] //7
+      },
+      {
+        "avatar": "avatars/others/jana.png",
+        "username": "Jana",
+        "text": "Ahoj, jsem Jana a už několik let bydlím v Brně, protože tady studuju. Ráda hraju na kytaru a čtu, i když se mi na to poslední dobou moc nedaří udělat čas. Také jsem závislák na kávě a snažím se v této oblasti i trochu vzdělat.:).",
+        "likes": [12000, 40000, 120000] //3
+      },
+      {
+        "avatar": "avatars/others/tyna.png",
+        "username": "Týna",
+        "text": "Ahoj, já jsem Týna, je mně 19 a studuju v Brně na FSS. Ráda sportuju, ráda zkouším ruzný sporty a dělám instruktora lyžování a inlajnů, takže tím trávím dost času. Dál ráda cestuju, jen na to není moc financí, ale to se třeba jednou zlomí :D jinak ráda trávím čas venku a s kamarádama.",
+        "likes": [13000, 50000, 80000, 88000, 120000] //5
+      },
+      {
+        "avatar": "avatars/others/md.png",
+        "username": "MD",
+        "text": "Jsem více méně veselý člověk se silnou tragikomickou aurou. V zásadě jsem šikovný a chytrý, ale méně pracovitý, ne-li lenivý. Takový normálně nenormální student doufající v hezkou budoucnost. Mír",
+        "likes": [10000, 50000] //6
+      },
+
+    ]
+  };
