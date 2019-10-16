@@ -52,7 +52,7 @@ $(function() {
 	
     // Usernames by which the participant will receive "likes"
 	// If group member names are changed, these should be changed accordingly.
-    settings.likes_by = ['Tom','Jirka','Kaja','Honza','Jana','Kuba','Dan','Heather','Ky']; 
+    settings.likes_by = ['Tom','Kája','Jirka','Honza','Jana','Kuba','Linda','MD','Týna']; 
   }
   
   // -------------------
@@ -86,7 +86,7 @@ $(function() {
 
   		if(uname == "") {
   			error = 1;
-  			errormsg = 'Please enter text';
+  			errormsg = 'Prosím, vložte text';
   			uname = "undefined";
   		} 		
 
@@ -126,7 +126,7 @@ $(function() {
   			window.avatarexport = /avatar_([^\s]+)/.exec(window.avatar)[1];
     			init_text();  			
     		} else {
-    			alertify.log("Please select an avatar","error");
+    			alertify.log("Prosím, zvolte si avatara","error");
     		}
     	});
 
@@ -146,17 +146,17 @@ $(function() {
   		var error = 0;
   		if($('#description').val() == "") {
   			error = 1;
-  			errormsg = 'Please enter text';
+  			errormsg = 'Prosím, vložte text';
   		}
   		if($('#description').val() !== "" && $('#description').val().length < 140) {
 		
   			error = 1;
-  			errormsg = 'Please write a bit more';
+  			errormsg = 'Prosím, napište trochu víc textu';
 			}
   		if($('#description').val().length > 401) {
   		
   			error = 1;
-  			errormsg = 'Please enter less text';
+  			errormsg = 'Prosím, napište méně textu';
   		}  		
   		if(error == 0) {
   			$('#text').hide();
@@ -463,7 +463,7 @@ $(function() {
   // Prevent that participants accidentally exit the experiment by disabling F5 and backspace keys
   shortcut.add("f5",function() {});  
   $(window).bind('beforeunload', function(){
-    return 'Are you sure you want to quit the experiment completely?';
+    return 'Určitě chcete ukončit experiment?';
   });   
 
   // Set Settings, get Participant No. and Condition No.
