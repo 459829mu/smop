@@ -5,8 +5,8 @@ window.others = {
   "posts" : [
       {
         "avatar": "avatars/others/kuba.png",
-        "username": "Kuba",
-        "text": "Ahoj, jmenuju se Kuba. Vystudoval jsem sociologii a studuji psychologii. Mám rád hudbu. Rád hraju hry a spím. Čím jsem starší, tím míň na obě dvě věci mám čas. Jednou bych chtěl být bohatý a úspěšný, ale zahodit všechno, co jsem vystudoval a jít do teď IT na full-time je podle mě škoda. Budu muset vymyslet kompromis. Mám rád svoji přítelkyni. Rádi spolu vaříme, pečeme a jezdíme na výlety.",
+        "username": "Peťa",
+        "text": "Ahoj, jmenuju se Peťa. Vystudoval jsem sociologii a studuji psychologii. Rád hraju hry a spím. Čím jsem starší, tím míň na obě dvě věci mám čas. Jednou bych chtěl být bohatý a úspěšný, ale zahodit všechno, co jsem vystudoval a jít do teď IT na full-time je podle mě škoda. Budu muset vymyslet kompromis.",
         "likes": [45000, 50000, 110000, 150000] //4
       },
       {
@@ -24,7 +24,7 @@ window.others = {
       {
         "avatar": "avatars/others/jirka.png",
         "username": "Jirka",
-        "text": "Kromě studia hodně hraji na počítači a modelařím. Zajímám se o politiku a klidně o ní rád dlouze podebatuji nad sklenicí piva. Dřív jsem dělal závodně judo, ale zkrátka čím je člověk starší, tím míň času má.",
+        "text": "Kromě studia hodně hraji na počítači, modelařím, zajímám se o politiku a klidně o ní rád dlouze podebatuji nad sklenicí piva. Dřív jsem dělal závodně judo, ale tomu už se teď skoro nevěnuji.",
         "likes": [10000, 12000, 40000, 80000, 120000] //5
       },
       {
@@ -54,7 +54,7 @@ window.others = {
       {
         "avatar": "avatars/others/jana.png",
         "username": "Jana",
-        "text": "Jmenuji se Jana, jsem čtvrtym rokem na výšce a ráda hraju na kytaru a čtu...ale teď v půlce semestru spíš hrotim školu. Taky sem závislák na kávě a baví mě zkoušet nový podniky.:).",
+        "text": "Jmenuji se Jana, jsem čtvrtym rokem na výšce a ráda hraju na kytaru a čtu...ale teď v půlce semestru spíš hrotim školu. Taky sem závislák na kávě a baví mě zkoušet nový podniky:).",
         "likes": [12000, 40000, 120000] //3
       },
       {
