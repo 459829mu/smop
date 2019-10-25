@@ -12,19 +12,19 @@ window.others = {
       {
         "avatar": "avatars/others/kaja.png",
         "username": "Kája",
-        "text": "Jmenuju se Kája, je mi 22 a studuju multimédia. Mám ráda výzvy, horský dráhy, ohňostroje, tanec, modrý oči a jégra. Ráda cestuju – jednou letadlem, jindy stopem. Jednou do města a jindy do hor. Někdy vyrážím i sama, ale nejšťastnější jsem stejně se svojí bandou kamarádů u táboráku.",
+        "text": "Jmenuju se Kája, je mi 22 a studuju multimédia. Mám ráda výzvy, horský dráhy, ohňostroje, tanec, modrý oči a jégra. Ráda cestuju. Jednou letadlem, jindy stopem. Jednou do města a jindy do hor. Někdy vyrážím i sama, ale nejšťastnější jsem stejně se svojí bandou kamarádů u táboráku.",
         "likes": [12000, 14000,15000,35000,80000,100000,110000,150000,20000] //9
       },
       {
         "avatar": "avatars/others/tom.png",
         "username": "Tom",
-        "text": "Čau, jsem Tom. Mám rád srandu a kolektivní sporty, protože je to super způsob, jak líp poznat lidi. Jsem docela zvědavý, co nás čeká za úkol a s kým se tu seznámím.",
+        "text": "Cau ja sem Tom. Mam rad srandu a kolektivni sporty, protoze je to super zpusob jak lip poznat lidi. Uz moc nevim co dal vymyslet :D sem docela zvedavej, co nas ceka za ukol a s kym se tu sznamim",
 		"likes": [20000, 21000] //2
       },
       {
         "avatar": "avatars/others/jirka.png",
         "username": "Jirka",
-        "text": "Je mi 20, původem jsem z Liberce, ale nyní studiji a bydlím v Praze. Dřív jsem dělal závodně judo, ale zkrátka čím je člověk starší, tím míň času má. Kromě studia hodně hraji na počítači a modelařím. Taky se zajímám o politiku, o které, často nad sklenicí piva, vydržím debatovat hodiny.",
+        "text": "Kromě studia hodně hraji na počítači a modelařím. Zajímám se o politiku a klidně o ní rád dlouze podebatuji nad sklenicí piva. Dřív jsem dělal závodně judo, ale zkrátka čím je člověk starší, tím míň času má.",
         "likes": [10000, 12000, 40000, 80000, 120000] //5
       },
       {
@@ -36,31 +36,31 @@ window.others = {
     {
         "avatar": "avatars/others/anicka.png",
         "username": "Anička",
-        "text": "Ahoj, jmenuji se Anička. Je mi 22 let. Momentálně studuji chemii na Přírodovědecké fakultě MU v Brně. Mám ráda cestování, hodně sleduji seriály. V životě se snažím zkoušet stále nové věci, třeba teď nedávno jsem si udělala potápěčský kurz.",
+        "text": "Ahoj, jmenuji se Anička, je mi 22 let a momentálně studuji chemii na UK. Mám ráda cestování, hodně sleduji seriály. V životě se snažím zkoušet stále nové věci, třeba teď nedávno jsem si udělala potápěčský kurz.",
         "likes": [20000, 25000, 95000] //3
       },
       {
         "avatar": "avatars/others/linda.png",
         "username": "Linda",
-        "text": "Ahoj, úplně nevím, co bych napsala. Ráda se účastním experimentů, protože se snažím prokrastinovat aspoň trochu produktivně a doma už mám uklizeno:D",
+        "text": "Ahoj, úplně nevím, co bych napsala :D ráda se účastním experimentů, protože se snažím prokrastinovat aspoň trochu produktivně a doma už mám uklizeno:D",
         "likes": [12000, 38000] //1
       },
           {
         "avatar": "avatars/others/honza.png",
         "username": "Honza",
-        "text": "Hmm..přemýšlím, co bych vám o sobě zasdílel :D Když už mám nějaký volný čas, tak rád chodím na výlety do přírody, ale teď v půlce semestru hrotim spíš školu. V poslední době se taky snažím víc zajímat o životní prostředí a nějak zapracovat na svých líných návycích.",
+        "text": "Hmm..přemýšlím, co bych vám o sobě zasdílel.. poslední roky nemám moc volnýho času, tak už nemám ani tolik koníčků, ale když je čas, tak rád chodím na výlety do přírody. Taky se teď snažim víc zajímat o životní prostředí a nějak zapracovat na svých líných návycích.",
         "likes": [10000, 50000, 88000, 11000, 11500, 120000, 15000] //7
       },
       {
         "avatar": "avatars/others/jana.png",
         "username": "Jana",
-        "text": "Ahoj, jsem Jana a ráda hraju na kytaru a čtu, i když se mi na to poslední dobou moc nedaří udělat čas. Také jsem závislák na kávě a snažím se v této oblasti i trochu vzdělat.:).",
+        "text": "Jmenuji se Jana, jsem čtvrtym rokem na výšce a ráda hraju na kytaru a čtu...ale teď v půlce semestru spíš hrotim školu. Taky sem závislák na kávě a baví mě zkoušet nový podniky.:).",
         "likes": [12000, 40000, 120000] //3
       },
       {
         "avatar": "avatars/others/tyna.png",
         "username": "Týna",
-        "text": "Ahoj, já jsem Týna, je mně 19 a studuju v Brně na FSS. Ráda sportuju, ráda zkouším ruzný sporty a dělám instruktora lyžování a inlajnů, takže tím trávím dost času. Dál ráda cestuju, jen na to není moc financí, ale to se třeba jednou zlomí :D jinak ráda trávím čas venku a s kamarádama.",
+        "text": "Ahoj, já jsem Týna, je mně 19 a studuju v Brně na FSS. Ráda zkouším ruzný sporty a dělám instruktora lyžování a inlajnů, takže tím trávím dost času. Dál ráda cestuju, jen na to není moc financí, ale to se třeba jednou zlomí :D jinak ráda trávím čas venku a s kamošema",
         "likes": [13000, 50000, 80000, 88000, 120000] //5
       },
       {
