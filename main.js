@@ -138,7 +138,7 @@ $(function() {
   	$('#text').show();
 
   	$("#description").keyup(function(){
-  	  $("#count").text("Characters left: " + (400 - $(this).val().length));
+  	  $("#count").text("Počet znaků: " + ($(this).val().length));
   	});
 
   	$('#submit_text').on('click',function() {
