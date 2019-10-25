@@ -24,7 +24,7 @@ window.others = {
       {
         "avatar": "avatars/others/jirka.png",
         "username": "Jirka",
-        "text": "Kromě studia hodně hraji na počítači, modelařím, zajímám se o politiku a klidně o ní rád dlouze podebatuji nad sklenicí piva. Dřív jsem dělal závodně judo, ale tomu už se teď skoro nevěnuji.",
+        "text": "Kromě školy hodně hraji na počítači, modelařím, zajímám se o politiku a klidně o ní rád dlouze podebatuji nad sklenicí piva. Dřív jsem dělal závodně judo, ale tomu už se teď skoro nevěnuji.",
         "likes": [10000, 12000, 40000, 80000, 120000] //5
       },
       {
@@ -42,7 +42,7 @@ window.others = {
       {
         "avatar": "avatars/others/linda.png",
         "username": "Linda",
-        "text": "Ahoj, úplně nevím, co bych napsala :D ráda se účastním experimentů, protože se snažím prokrastinovat aspoň trochu produktivně a doma už mám uklizeno:D",
+        "text": "Uplne nevim, co bych napsala :D rada se ucastnim experimentu, protoze se snazim prokrastinovat aspon trochu produktivne a doma uz mam uklizeno:D",
         "likes": [12000, 38000] //1
       },
           {
@@ -54,7 +54,7 @@ window.others = {
       {
         "avatar": "avatars/others/jana.png",
         "username": "Jana",
-        "text": "Jmenuji se Jana, jsem čtvrtym rokem na výšce a ráda hraju na kytaru a čtu...ale teď v půlce semestru spíš hrotim školu. Taky sem závislák na kávě a baví mě zkoušet nový podniky:).",
+        "text": "Jmenuji se Jana, jsem čtvrtym rokem na výšce a ráda hraju na kytaru a čtu...ale teď v půlce semestru spíš hrotim školu. Jsem závislák na kávě a baví mě zkoušet nový podniky:).",
         "likes": [12000, 40000, 120000] //3
       },
       {
@@ -66,7 +66,7 @@ window.others = {
       {
         "avatar": "avatars/others/md.png",
         "username": "MD",
-        "text": "Jsem více méně veselý člověk se silnou tragikomickou aurou. V zásadě jsem šikovný a chytrý, ale méně pracovitý, ne-li lenivý. Takový normálně nenormální student doufající v hezkou budoucnost. Mír",
+        "text": "Zdravíčko :) Jsem více méně veselý člověk se silnou tragikomickou aurou. Takový normálně nenormální student doufající v hezkou budoucnost. Mír",
         "likes": [10000, 50000] //6
       },
 
