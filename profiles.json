@@ -47,7 +47,7 @@ window.others = {
       },
           {
         "avatar": "avatars/others/honza.png",
-        "username": "Honza",
+        "username": "Johny",
         "text": "Hmm..přemýšlím, co bych vám o sobě zasdílel.. poslední roky nemám moc volnýho času, tak už nemám ani tolik koníčků, ale když je čas, tak rád chodím na výlety do přírody. Taky se teď snažim víc zajímat o životní prostředí a nějak zapracovat na svých líných návycích.",
         "likes": [10000, 50000, 88000, 11000, 11500, 120000, 15000] //7
       },
