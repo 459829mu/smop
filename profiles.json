@@ -35,7 +35,7 @@ window.others = {
       },
       {
         "avatar": "avatars/others/niki.png",
-        "username": "Nick",
+        "username": "Johny",
         "text": "Ahoj! Jsem z Pražák žijící v Brně, ale hrdej jsem jen na to první. Jsem večnej student, ale složenky ze mě udělaly pracujícího studenta na skoro plnej úvazek, takže jsem teď pořád v letu. Když už se můžu na chvíli zastavit, tak si rád pustim americkej fotbal a něco dobrýho si uvařim.",
         "likes": [450000, 90000, 100000, 150000, 155000] //5
       },
