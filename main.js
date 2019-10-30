@@ -41,18 +41,18 @@ $(function() {
     // In condition 2, user will receive 4 likes at the following timepoints (in ms). Default: [10000, 15000,35000,80000,1320000,150000]
     settings.condition_2_likes = [15000,35000,80000,150000];  
     
-    // In condition 3, user will receive 6 likes at the following timepoints (in ms). Default: [10000, 11000,15000,35000,80000,100000,110000,150000,20000]
-    settings.condition_3_likes = [10000,35000,80000,100000,110000,150000]; 
+    // In condition 3, user will receive 7 likes at the following timepoints (in ms). Default: [10000, 11000,15000,35000,80000,100000,110000,150000,20000]
+    settings.condition_3_likes = [10000,35000,68000,80000,100000,110000,150000]; 
 
 	// **Others' likes**     
 	// To keep the total distribution of "likes" constant across conditions, The "likes" received by one group member can be adjusted according to the participant's. By default, the other group member receives 9 "likes" in the participant-ostracism condition, 5 in the participant-inclusion condtion, and 1 in the participant-overinclusion condtion.
-	settings.condition_1_adjusted_likes = [12000,35000,80000,100000,110000,150000]; // 6
+	settings.condition_1_adjusted_likes = [12000,35000,68000,80000,100000,110000,150000]; // 7
 	settings.condition_2_adjusted_likes = [15000,35000,80000,15000]; // 4
 	settings.condition_3_adjusted_likes = [12000, 9999999]; //1	
 	
     // Usernames by which the participant will receive "likes"
 	// If group member names are changed, these should be changed accordingly.
-    settings.likes_by = ['Tom','Kája','Anička','Peťa','Linda','MD','Nick']; 
+    settings.likes_by = ['Tom','Kája','Anička','Peťa','Linda','MD','Johny','Jana']; 
   }
   
   // -------------------
