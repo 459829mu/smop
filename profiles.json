@@ -7,13 +7,13 @@ window.others = {
         "avatar": "avatars/others/kuba.png",
         "username": "Peťa",
         "text": "Zdarec! Vystudoval jsem sociologii a teď studuji psychologii. Rád hraju hry a spím. Čím jsem starší, tím míň na obě dvě věci mám čas. Jednou bych chtěl být bohatý a úspěšný, ale zahodit všechno, co jsem vystudoval a jít do teď IT na full-time je podle mě škoda. Budu muset vymyslet kompromis.",
-        "likes": [45000, 50000, 83000, 110000, 150000] //5
+        "likes": [45000, 50000, 74000, 83000, 110000, 150000] //6
       },
       {
         "avatar": "avatars/others/kaja.png",
         "username": "Kája",
         "text": "Jmenuju se Kája, je mi 21 a studuju multimédia. Mám ráda výzvy, horský dráhy, ohňostroje, tanec, modrý oči a jégra. Ráda cestuju. Jednou letadlem, jindy stopem. Jednou do města a jindy do hor. Někdy vyrážím i sama, ale nejšťastnější jsem stejně se svojí bandou kamarádů u táboráku.",
-        "likes": [14000,35000,80000,100000,150000,20000] //6
+        "likes": [14000,20000,35000,80000,100000,130000,150000] //7
       },
       {
         "avatar": "avatars/others/tom.png",
@@ -38,6 +38,12 @@ window.others = {
         "username": "Nick",
         "text": "Ahoj! Jsem z Pražák žijící v Brně, ale hrdej jsem jen na to první. Jsem večnej student, ale složenky ze mě udělaly pracujícího studenta na skoro plnej úvazek, takže jsem teď pořád v letu. Když už se můžu na chvíli zastavit, tak si rád pustim americkej fotbal a něco dobrýho si uvařim.",
         "likes": [450000, 90000, 100000, 150000, 155000] //5
+      },
+      {
+        "avatar": "avatars/others/jana.png",
+        "username": "Jana",
+        "text": "Jmenuji se Jana, jsem čtvrtym rokem na výšce a ráda hraju na kytaru a čtu...ale teď v půlce semestru spíš hrotim školu. Jsem závislák na kávě a baví mě zkoušet nový podniky:).",
+        "likes": [32000, 58000, 72000, 84000] //4
       },
       {
         "avatar": "avatars/others/md.png",
